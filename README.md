@@ -12,5 +12,4 @@ paludettomarcelo@gmail.com
 
 @marcelopaludetto
 
-![][image(https://github.com/user-attachments/assets/d8fe7902-a9e5-4e62-9b95-705b2e853e92)!
-
+![](https://github.com/user-attachments/assets/d8fe7902-a9e5-4e62-9b95-705b2e853e92)!
